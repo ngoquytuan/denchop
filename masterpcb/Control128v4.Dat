@@ -1,0 +1,37 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Control128v4.PrjPcb|ReportField=ProjectFullPath~C:\Users\ngoqu\Documents\GitHub\Flashing\ChuyenGiaoCongNghe\Control128\Control128v4.PrjPcb|ReportField=Title~Bill of Materials For Project [Control128v4.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~1:41:07 PM|ReportField=ReportDate~10/11/2018|ReportField=ReportDateTime~10/11/2018 1:41:07 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~90|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~10/11/2018|ReportField=CurrentTime~1:09:12 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\ngoqu\Documents\GitHub\Flashing\ChuyenGiaoCongNghe\Control128\0.powerv4.SchDoc|ReportField=DocumentName~0.powerv4.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~10/11/2018|ReportField=Organization~|ReportField=ProjectName~Control128v4.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~4|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=VersionControl_RevNumber~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.73:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A4:PaperIndex=9|ReportField=DataSourceFileName~Control128v4.PrjPcb|ReportField=DataSourceFullPath~C:\Users\ngoqu\Documents\GitHub\Flashing\ChuyenGiaoCongNghe\Control128\Control128v4.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|C828|Transistor C828 C1815....|Q11|SOT23 TOP|NPN|1
+2|SM712|The SM712 transient voltage suppressor (TVS) diode  is designed for asymmetrical (12V to -7V) protection  in multi-point data transmission standard RS-485  applications.|D41, D42|SOT23 TOP|SM712|2
+3|Màn hình LCD text20x4|Text LCD|LCD1|LCD 20x4|LCD 16x2|1
+4|Giắc xanh 5.08mm|Terminal Block Screw Type THT 2-Position 3.81mm pitch|FLASHER, MODBUS, VIN|2P_PCB1|2P_ScrewTerm_90S_3.81MM|3
+5|PC817|Single Opto|OP31, OP32, OP33, OP34, OP35|DIP4/W0.3|PC817|5
+6|Điện trở dán 06033.24k|Resistor|R03|RES 0805|Res|1
+7|Điện trở dán 08050R|Resistor|R41, R42, R43, R44, R45, R46|RES 0805|Res|6
+8|Điện trở dán 08051k|Resistor|R14|RES 0805|Res|1
+9|Điện trở dán 12066.8k|Resistor|R31, R32, R33, R34, R35|RESC3216N|Res|5
+10|Điện trở dán 060310k|Resistor|R01, R12|RES 0805|Res|2
+11|Điện trở dán 080510k|Resistor|R15, R36, R37, R38, R39, R40|RES 0805|Res|6
+12|Điện trở dán 0603330R|Resistor|R02|RES 0805|Res|1
+13|Điện trở dán 0805470|Resistor|R13|RESC1608N_F|Res|1
+14|Blue|LED 0805 SMD Blue 100mcd 470nm|LED01|LED-0805-K|LED_SMD_Blue_0805_100mcd|1
+15|ULN2803A|High-Voltage, High-Current Darlington Array|U31|SOIC-18|ULN2803A|1
+16|Header 10X2A|Header, 10-Pin, Dual row|DIO|HDR2X10_CEN|Header 10X2A|1
+17|Header 4|Header, 4-Pin|RFC|HDR1X4|Header 4|1
+18|Header 2|Header, 2-Pin|RLM|HDR1X2|Header 2|1
+19|Giắc đôi 5x2 chân 2.54mm|Header THD 10 POS Double-row 2.54mm pitch|ISP|10P_PCB_HEADER_BRD_MNT|CONN_HEADER_2x5P_0.100in_Male|1
+20|Tụ điện dán 080522|Capacitor non polarized|C15, C16|CAP 0805|CAP NP|2
+21|Tụ điện dán 0603103|Capacitor non polarized|C02|CAP 0805|CAP NP|1
+22|Tụ điện dán 0603104|Capacitor non polarized|C04, C05, C10, C17, C18, C19, C31, C41, C45, C111, C112|CAP 0805|CAP NP|11
+23|Tụ điện dán 0805103|Capacitor non polarized|C42, C44, C46, C48, C410, C412, C414, C415|CAP 0805|CAP NP|8
+24|Tụ điện dán 0805104|Capacitor non polarized|C49, C413|CAP 0805|CAP NP|2
+25|Tụ điện dán 0805106|Capacitor non polarized|C43, C47, C411, C416|CAP 0805|CAP NP|4
+26|Module thu phát không dây RFE32-TTL-1W|AS32-TTL-1W|U1|RF_AS32|AS32-TTL-1W|1
+27|ATmega128|8-Bit AVR Microcontroller with 128K Bytes of In-System Programmable Flash Memory|U11|64A_N|ATmega128-16AC|1
+28|ADM2582_485||U41, U42|SO-20B|ADM2582_485|2
+29|Cuộn cảm dán22uH||L01|Inductor 12x12x6|Inductor|1
+30|Đi ốt dánchân DO-214AB||D01|DO-214AA|Diode|1
+31|HK4100F_12V||RL31, RL32, RL33, RL34, RL35|HK4100F|HK4100F|5
+32|Nút bấm 4 chân cắm12x12x17mm||SW1, SW2, SW3, SW4|SW 12x12x4|SW-4P-Small|4
+33|SS34||D02|SMD diode|Diode Schottky|1
+34|Thạch anh cắm 16MHz||XT|XT2|Crystal|1
+35|TPS5430||U02|SOIC 8|TPS5430|1
+36|Tụ nhôm cắm35V/220uF||C01, C03, C06|CAPE3.5-5.0MM_Rad_10x14mm|Cap|3
